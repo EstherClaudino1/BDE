@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1501190727 source:c:\users\justm\desktop\motorbasedatos\bloque.cpp
+	"bloque.h"
+
+1501190727 c:\users\justm\desktop\motorbasedatos\bloque.h
+	"datafile.h"
+	"string.h"
+	"tabla.h"
+
+1502424087 c:\users\justm\desktop\motorbasedatos\datafile.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1502484973 source:c:\users\justm\desktop\motorbasedatos\bloquetablas.cpp
+	"bloquetablas.h"
+
+1503842245 c:\users\justm\desktop\motorbasedatos\bloquetablas.h
+	"bloque.h"
+	"tabla.h"
+	<vector>
+	"datafile.h"
+	"campo.h"
+
+1503848064 c:\users\justm\desktop\motorbasedatos\tabla.h
+	<stdio.h>
+	<string.h>
+	"campo.h"
+	"vector"
+
+1503890102 source:c:\users\justm\desktop\motorbasedatos\main.cpp
+	<iostream>
+	<string>
+	"datafile.h"
+	"bloque.h"
+	"bloquetablas.h"
+	"mbloques.h"
+	"mtablas.h"
+	"masterbloque.h"
+	"tabla.h"
+	<sstream>
+	"campo.h"
+
+1502419913 source:c:\users\justm\desktop\motorbasedatos\masterbloque.cpp
+	"masterbloque.h"
+
+1502419913 c:\users\justm\desktop\motorbasedatos\masterbloque.h
+	"datafile.h"
+
+1503848288 source:c:\users\justm\desktop\motorbasedatos\tabla.cpp
+	"tabla.h"
+
+1503882583 source:c:\users\justm\desktop\motorbasedatos\datafile.cpp
+	"datafile.h"
+
+1503846795 source:c:\users\justm\desktop\motorbasedatos\mbloques.cpp
+	"mbloques.h"
+
+1503846732 c:\users\justm\desktop\motorbasedatos\mbloques.h
+	"bloquecampo.h"
+	"datafile.h"
+	"bloquetablas.h"
+	"masterbloque.h"
+	<vector>
+	"bloqueregistro.h"
+	"tabla.h"
+
+1503884918 source:c:\users\justm\desktop\motorbasedatos\mtablas.cpp
+	"mtablas.h"
+
+1503851737 c:\users\justm\desktop\motorbasedatos\mtablas.h
+	"tabla.h"
+	"bloquetablas.h"
+	<vector>
+	"mbloques.h"
+	<iostream>
+	"campo.h"
+	"bloquecampo.h"
+	"bloqueregistro.h"
+	"registro.h"
+
+1503845618 source:c:\users\justm\desktop\motorbasedatos\bloquecampo.cpp
+	"bloquecampo.h"
+
+1503845085 c:\users\justm\desktop\motorbasedatos\bloquecampo.h
+	"datafile.h"
+	"campo.h"
+	<vector>
+
+1503885976 source:c:\users\justm\desktop\motorbasedatos\bloqueregistro.cpp
+	"bloqueregistro.h"
+
+1503845792 c:\users\justm\desktop\motorbasedatos\bloqueregistro.h
+	"registro.h"
+	"datafile.h"
+	"tabla.h"
+
+1502484065 source:c:\users\justm\desktop\motorbasedatos\campo.cpp
+	"campo.h"
+
+1502422893 c:\users\justm\desktop\motorbasedatos\campo.h
+	<stdio.h>
+	<string.h>
+
+1503890147 source:c:\users\justm\desktop\motorbasedatos\registro.cpp
+	"registro.h"
+
+1503881018 c:\users\justm\desktop\motorbasedatos\registro.h
+	"campo.h"
+	"campodatos.h"
+	<vector>
+	"datafile.h"
+	"tabla.h"
+	<iostream>
+	"bloquecampo.h"
+
+1503890126 c:\users\justm\desktop\motorbasedatos\campodatos.h
+	"campo.h"
+
+1503889361 source:c:\users\justm\desktop\motorbasedatos\campodatos.cpp
+	"campodatos.h"
+
